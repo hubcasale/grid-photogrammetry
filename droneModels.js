@@ -35,6 +35,13 @@ export default [
     imageWidth: 4000,
     imageHeight: 3000
   }, {
+    name: 'DJI Mini 5 pro',
+    sensorWidth: 6.7,
+    sensorHeight: 13.2,
+    focalLength: 8.8,
+    imageWidth: 8192,
+    imageHeight: 6144
+  }, {
     name: 'DJI Mini SE',
     sensorWidth: 6.3,
     sensorHeight: 4.7,
